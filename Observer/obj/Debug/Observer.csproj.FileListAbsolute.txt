@@ -1,0 +1,6 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\bin\Debug\Observer.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\bin\Debug\Observer.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\bin\Debug\Observer.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\obj\Debug\Observer.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Observer\obj\Debug\Observer.pdb

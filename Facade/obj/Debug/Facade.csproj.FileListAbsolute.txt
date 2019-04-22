@@ -1,0 +1,6 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\bin\Debug\Facade.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\bin\Debug\Facade.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\bin\Debug\Facade.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\obj\Debug\Facade.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Facade\obj\Debug\Facade.pdb

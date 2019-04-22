@@ -1,0 +1,5 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Strategy\bin\Debug\Strategy.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Strategy\bin\Debug\Strategy.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Strategy\bin\Debug\Strategy.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Strategy\obj\Debug\Strategy.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Strategy\obj\Debug\Strategy.pdb

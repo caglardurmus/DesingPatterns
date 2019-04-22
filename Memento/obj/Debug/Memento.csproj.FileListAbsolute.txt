@@ -1,0 +1,6 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\bin\Debug\Memento.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\bin\Debug\Memento.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\bin\Debug\Memento.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\obj\Debug\Memento.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Memento\obj\Debug\Memento.pdb

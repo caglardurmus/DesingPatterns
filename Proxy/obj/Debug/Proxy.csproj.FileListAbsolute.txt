@@ -1,0 +1,6 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\bin\Debug\Proxy.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\bin\Debug\Proxy.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\bin\Debug\Proxy.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\obj\Debug\Proxy.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Proxy\obj\Debug\Proxy.pdb

@@ -1,0 +1,5 @@
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Adapter\bin\Debug\Adapter.exe.config
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Adapter\bin\Debug\Adapter.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Adapter\bin\Debug\Adapter.pdb
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Adapter\obj\Debug\Adapter.exe
+c:\users\caglar.durmus\documents\visual studio 2017\Projects\DesingPatterns\Adapter\obj\Debug\Adapter.pdb
